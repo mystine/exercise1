@@ -20,37 +20,42 @@ html {
 	box-sizing: inherit;
 }
 
+a {
+    text-decoration: none;
+}
+
+}
 .icon-bicycle {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-car {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-scooter{
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-taxi {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-bus {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-plane {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
 
 .icon-walking {
-  font-size: 5em;
-  color: white;
+    font-size: 5em;
+    color: white;
 }
