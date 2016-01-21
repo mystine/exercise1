@@ -31,6 +31,14 @@ h1 {
     font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
 }
 
+p {
+    color: white;
+    font-size: 1.25em;
+    position: relative;
+    text-align: center;
+    font-family: Baskerville, 'Baskerville Old Face', 'Hoefler Text', Garamond, 'Times New Roman', serif;
+}
+
 .top {
     padding: 2.5em;
     position: relative;
