@@ -11,9 +11,8 @@ html {
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
 	text-size-adjust: 100%;
-    font-family: sans-serif;
   
-  background-color: darkslateblue;
+    background-color: indianred;
 }
 
 *, *:before, *:after {
@@ -28,34 +27,31 @@ h1 {
     color: white;
     position: relative;
     text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
 }
 
 .top {
     padding: 2.5em;
     position: relative;
-    height: 15em;
+    height: 20em;
 }
 
 .flag {
-    position: absolute;
+    text-align: center;
 }
 
 .icon-flag {
-    font-size: 10em;
+    font-size: 3.5em;
     color: white;
 }
 
+hr {
+    margin-bottom: 5em;
+}
 .transportation {
     text-align: center;
 }
 
-.circle {
-    width: 250px;
-	height: 200px;
-	border-radius: 150px;
-	-webkit-border-radius: 150px;
-	-moz-border-radius: 150px;
-}
 .icon-bicycle {
     font-size: 5em;
     color: white;
