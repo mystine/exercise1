@@ -13,7 +13,7 @@ html {
 	text-size-adjust: 100%;
     font-family: sans-serif;
   
-  background-color: darkorchid;
+  background-color: darkslateblue;
 }
 
 *, *:before, *:after {
@@ -24,7 +24,27 @@ a {
     text-decoration: none;
 }
 
+h1 {
+    color: white;
+    position: relative;
+    text-align: center;
 }
+
+.top {
+    padding: 2.5em;
+    position: relative;
+    height: 15em;
+}
+
+.flag {
+    position: absolute;
+}
+
+.icon-flag {
+    font-size: 10em;
+    color: white;
+}
+
 .icon-bicycle {
     font-size: 5em;
     color: white;
