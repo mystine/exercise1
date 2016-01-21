@@ -25,6 +25,7 @@ a {
 
 h1 {
     color: white;
+    font-size: 2.5em;
     position: relative;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Franklin Gothic', 'ITC Franklin Gothic', Arial, sans-serif;
@@ -48,6 +49,7 @@ h1 {
 hr {
     margin-bottom: 5em;
 }
+
 .transportation {
     text-align: center;
 }
@@ -57,9 +59,17 @@ hr {
     color: white;
 }
 
+.icon-bicycle:hover {
+    color: firebrick;
+}
+
 .icon-car {
     font-size: 5em;
     color: white;
+}
+
+.icon-car:hover {
+    color: firebrick;
 }
 
 .icon-scooter{
@@ -67,9 +77,17 @@ hr {
     color: white;
 }
 
+.icon-scooter:hover {
+    color: firebrick;
+}
+
 .icon-taxi {
     font-size: 5em;
     color: white;
+}
+
+.icon-taxi:hover {
+    color: firebrick;
 }
 
 .icon-bus {
@@ -77,12 +95,24 @@ hr {
     color: white;
 }
 
+.icon-bus:hover {
+    color: firebrick;
+}
+
 .icon-plane {
     font-size: 5em;
     color: white;
 }
 
+.icon-plane:hover {
+    color: firebrick;
+}
+
 .icon-walking {
     font-size: 5em;
     color: white;
+}
+
+.icon-walking:hover {
+    color: firebrick;
 }
